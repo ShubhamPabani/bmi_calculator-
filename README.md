@@ -1,4 +1,4 @@
-# bmi
+# (Body Mass Index) bmi calculator
 
 A new Flutter project.
 
